@@ -2,6 +2,9 @@
 
 This README explains the full system design in detail. The accompanying file **Netflix_HLD_Complete.drawio** contains the same content laid out visually across six pages (open it in app.diagrams.net or the draw.io desktop app and use the page tabs at the bottom).
 
+Name: Aditya kumar
+UID: 24BCS10209
+
 ---
 
 ## 1. Problem Statement
